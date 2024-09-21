@@ -1,0 +1,2 @@
+Carlos,Arturo,19,Masculino,Belen,318
+Arle,morales,20,masculino,arme,323
